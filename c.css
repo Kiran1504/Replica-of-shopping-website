@@ -1,0 +1,45 @@
+.box{
+    border-style: double;
+    border-width: 10px;
+    height: 25%;
+    width: 40%;
+}
+.table1{
+    margin-right: 150px;
+    background-color: rgb(226, 141, 43);
+    float: left;
+}
+.table2{
+    margin-left: ;
+    background-color: rgb(226, 141, 43);
+    float: right;
+}
+body{
+    
+}
+.table3{
+    
+    background-color: rgb(226, 141, 43);
+    float: center;
+}
+hr{
+    color: p;
+}
+.table{
+    background-color: rgb(226, 141, 43);
+}
+.table12{
+    
+    background: rgb(226, 141, 43);
+}
+.box1{
+    height: auto;
+    width: 30%;
+}
+.box2{
+    height: auto;
+    width: auto;
+}
+.box9{
+    background: url(SHOPPINGLOVE.jpg);
+}
